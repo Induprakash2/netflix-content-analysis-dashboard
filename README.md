@@ -2,6 +2,10 @@ Netflix Content Analysis Dashboard
 
 An interactive Excel dashboard built to analyze Netflix movies and TV shows using Pivot Tables, Charts, and Slicers.
 
+## Dashboard Preview
+
+![Dashboard](screenshotdashboard.png)
+
 ## Features
 
 - Interactive dashboard
