@@ -1,2 +1,19 @@
-# netflix-content-analysis-dashboard
-Data analysis project built in Microsoft Excel using Pivot Tables, Charts, and Slicers.
+Netflix Content Analysis Dashboard
+
+An interactive Excel dashboard built to analyze Netflix movies and TV shows using Pivot Tables, Charts, and Slicers.
+
+## Features
+
+- Interactive dashboard
+- Pivot Tables & Charts
+- Dynamic slicers
+- Genre and rating analysis
+- Country-wise content distribution
+- Release year trends
+
+## Tool
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+
